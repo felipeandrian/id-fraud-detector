@@ -1,6 +1,6 @@
 
 # 🛡 ID Fraud Detector: Azure AI & Gemini Cognitive Analysis
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/felipeandrian/id-fraud-detector/blob/main/notebook/id-fraud-detector.ipynb)
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Azure](https://img.shields.io/badge/Azure-Document%20Intelligence-0089D6?logo=microsoft-azure)
 ![Google Gemini](https://img.shields.io/badge/Google-Gemini%20API-4285F4?logo=google)
@@ -110,6 +110,7 @@ JUSTIFICATIVA:
 
 Se você preferir não configurar o ambiente local agora, pode testar a lógica diretamente na nuvem usando o arquivo `id_fraud_detector_colab.ipynb` incluído neste repositório.
 Basta abri-lo no Google Colab, cadastrar suas chaves na aba de **Secrets** e executar as células.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/felipeandrian/id-fraud-detector/blob/main/notebook/id-fraud-detector.ipynb)
 
 ---
 
